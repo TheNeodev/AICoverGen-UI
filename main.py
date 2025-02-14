@@ -16,12 +16,12 @@ i18n = I18nAuto()
 
 import assets.themes.loadThemes as loadThemes
 
-rvc_theme = loadThemes.load_json() or "ParityError/Interstellar"
+rvc_theme = loadThemes.load_json() or "NoCrypt/miku"
 
 with gr.Blocks(
-    theme=rvc_theme, title="RVC AI Cover Maker", css="footer{display:none !important}"
-) as RVCAICoverMaker:
-    gr.Markdown("# RVC AI Cover Maker")
+    theme=rvc_theme, title="AICoverGen UI", css="footer{display:none !important}"
+) as AICoverGenUI:
+    gr.Markdown("# AICoverGen UI")
     with gr.Tab(i18n("Full Inference")):
         full_inference_tab()
     with gr.Tab(i18n("Download Music")):
@@ -33,7 +33,7 @@ with gr.Blocks(
 
 
 def launch(port):
-    RVCAICoverMaker.launch(
+    AICoverGenUI.launch(
         favicon_path=os.path.join(now_dir, "assets", "logo.ico"),
         share="--share" in sys.argv,
         inbrowser="--open" in sys.argv,
