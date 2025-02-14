@@ -2,9 +2,12 @@
   
 # AICoverGen UI
 
-| **English** | **PT-BR** |
-|:---:|:---:|:---:|
-| <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  
+| **Language** | **Google Colab Link** |
+|:-----------:|:----------------------:|
+| 🇺🇸 **English** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI.ipynb) |
+| 🇧🇷 **Português (BR)** | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI_PT_BR.ipynb) |
+
+
 
 </div>
 
