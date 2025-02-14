@@ -15,6 +15,21 @@ An autonomous WebuI to create covers with any RVC v2 trained AI voice from YouTu
 
 </div>
 
+<html>
+<head>
+    <meta charset="UTF-8">
+</head>
+<body>
+    <p>Original Created by <a href="https://github.com/ShiromiyaG">Shirou</a></p>
+    <p>Maintained by <a href="http://discord.com/users/274566299349155851">Not Eddy (Spanish Mod)</a> in 
+        <a href="https://discord.gg/aihub">AI HUB</a> community and 
+        <a href="https://discord.com/1314204512814235689">NeoDev</a>
+    </p>
+</body>
+</html>
+
+
+
 ## Credits
 - [RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker)
 - [Audio Separator](https://github.com/karaokenerds/python-audio-separator) by [Andrew Beveridge](https://github.com/beveradb)
