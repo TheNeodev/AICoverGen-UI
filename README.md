@@ -1,14 +1,15 @@
 <div align="center">
   
-# <a href="https://github.com/ShiromiyaG/RVC-AI-Cover-Maker" target="_blank"><img src="https://github.com/ShiromiyaG/RVC-AI-Cover-Maker-WebUI/blob/main/assets/RVCCoverWebUI.png" alt="RVCAICoverMaker"></a>
+# AICoverGen UI
 
-| **English** | **PT-BR** | **Kaggle** |
+| **English** | **PT-BR** |
 |:---:|:---:|:---:|
-| <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  <a target="_blank" href="https://www.kaggle.com/code/eddycrack864/rvc-ai-cover-maker-ui"> <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Open In Kaggle"/> </a> |
+| <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | <a target="_blank" href="https://colab.research.google.com/github/Eddycrack864/RVC-AI-Cover-Maker-UI/blob/main/assets/RVCAICoverMakerUI_PT_BR.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> |  
 
 </div>
 
 ## Credits
+- [RVC-AI-Cover-Maker](https://github.com/ShiromiyaG/RVC-AI-Cover-Maker)
 - [Audio Separator](https://github.com/karaokenerds/python-audio-separator) by [Andrew Beveridge](https://github.com/beveradb)
 - [Applio](https://github.com/IAHispano/Applio) by [IAHispano](https://github.com/IAHispano)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp)
