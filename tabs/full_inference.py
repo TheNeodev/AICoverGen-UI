@@ -218,7 +218,7 @@ def full_inference_tab():
                 value=default_weight,
                 allow_custom_value=True,
             )
-        with gr.Row()
+        with gr.Row():
             index_file = gr.Dropdown(
                 label=i18n("Index File"),
                 info=i18n("Select the index file to use for the conversion."),
