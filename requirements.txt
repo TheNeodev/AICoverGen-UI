@@ -1,5 +1,7 @@
 absl-py==2.1.0
 accelerate==0.34.0
+safehttpx==0.1.6
+python-multipart==0.0.20
 aiofiles==23.2.1
 aiohappyeyeballs==2.4.0
 aiohttp==3.10.5
