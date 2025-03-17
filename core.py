@@ -1015,9 +1015,14 @@ def download_music(link):
     command = [
         "yt-dlp",
         "-x",
+        "--audio-format",
+        "wav",
         "--output",
-        os.path.join(now_dir, "audio_files", "original_files", "%(title)s.%(ext)s"),
+        output_template,
+        "--cookies",
+        "./assets/youtube.txt",
         link,
     ]
+
     subprocess.run(command)
     return "Music downloaded with success"
